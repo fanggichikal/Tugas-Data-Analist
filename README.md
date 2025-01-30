@@ -14,4 +14,4 @@ Analisis ini menggunakan berbagai alat analisis data seperti Python, Pandas, Mat
 ## Cara Instalasi
 1. **Clone repositori** ini untuk mendapatkan salinan proyek di mesin lokal Anda:
    ```bash
-   git clone https://github.com/fanggichikal/tugas-data-analist.git
+   git clone https://github.com/fanggichikal/Tugas-Data-Analist

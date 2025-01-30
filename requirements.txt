@@ -5,4 +5,4 @@ sebelum melakaukan pemrograman pastikan sudah menginstal
 !pip instal streamlit
 !pip instal babel.numbers
 
-dan juga mendownload maindata di url
+dan juga mendownload maindata di url https://github.com/fanggichikal/Tugas-Data-Analist
