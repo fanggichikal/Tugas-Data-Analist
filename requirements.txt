@@ -1,0 +1,8 @@
+sebelum melakaukan pemrograman pastikan sudah menginstal
+!pip install pandas
+!pip instal matplotlib.pyplot 
+!pip instal seaborn
+!pip instal streamlit
+!pip instal babel.numbers
+
+dan juga mendownload maindata di url
