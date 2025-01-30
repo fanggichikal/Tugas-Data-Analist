@@ -9,8 +9,8 @@ data.head()
 # print(data.head())
 
 data.info()
-print(data.info())
-print(data.columns)
+# print(data.info())
+# print(data.columns)
 
 def create_daily_orders_df(df):
     daily_orders_df = df.resample(rule='D', on='order_approved_at').agg({
